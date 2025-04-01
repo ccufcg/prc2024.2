@@ -5,7 +5,7 @@ O projeto será dividido em três entregas, realizadas em três semanas consecut
 | Etapa   | Descrição                            | Data de Entrega |
 |---------|--------------------------------|----------------|
 | Etapa 01 | Necessidades, objetivos e restrições | 27/03/2025 |
-| Etapa 02 | Projeto Lógico | 11/04/2025 |
+| Etapa 02 | Projeto Lógico | 10/04/2025 |
 | Etapa 03 | Projeto Físico | 17/04/2025 |
 
 **Sumário**:
@@ -56,17 +56,6 @@ Os alunos devem projetar a rede considerando os seguintes requisitos:
   - Cada torre LTE deve suportar **250 dispositivos**.
   - Os roteadores utilizarão uma rede exclusiva para sua comunicação interna.
   - O **sistema de monitoramento** deve operar em uma rede privada com endereços não públicos, isolada da infraestrutura principal.
-
-### **Sistema de Monitoramento**
-
-O projeto deve garantir que a **rede de monitoramento** seja altamente segura e eficiente. Este sistema deve possibilitar:
-
-- **Baixa latência** para controle de equipamentos e respostas em tempo real.
-- **Segurança na transmissão de dados**, prevenindo acessos não autorizados.
-- **Alta disponibilidade**, garantindo monitoramento contínuo mesmo em caso de falha de um link.
-- **Suporte para novos sensores**, prevendo futuras expansões com a adição de novas áreas cultiváveis e automação avançada.
-
-> **⚠️ ATENÇÃO:** O sistema de monitoramente pode utilizar a mesma infraestrutura fisica das demais redes
 
 ---
 
